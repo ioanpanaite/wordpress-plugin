@@ -9,7 +9,7 @@ Description: A plugin to integrate with the Duffels API and display products.
 
 Version: 1.0
 
-Author: topnotchdev@outlook.com
+Author: Ioan
 
 */
 
